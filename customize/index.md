@@ -1,3 +1,8 @@
+---
+layout: default
+nav_order: 2
+has_children: true
+---
 # Customize
 Create your  **own theme**  with a simple set of  **variables**
 
