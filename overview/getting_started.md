@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Overview
+nav_order: 1
+---
 # Getting Started
 ## Quick start
 Looking to quickly add MoonHare to your project? Use jsDelivr, a free open source CDN. Using a package manager or need to download the source files?  [Head to the downloads page](/download).
