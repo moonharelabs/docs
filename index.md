@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Documentation
 
 Everything you need to  **create a website**  with MoonHare
