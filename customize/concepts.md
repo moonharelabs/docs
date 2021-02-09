@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Customize
+nav_order: 2
+---
 # Concepts
 
 What makes MoonHare  **customizable**
